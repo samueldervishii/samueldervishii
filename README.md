@@ -17,10 +17,10 @@
   </div>
 
 <div align="center">
-    <p>📫 Drop me a message at <a href="mailto:dervishisamuel360@gmail.com">samueld@tegeria.com</a></p>
+    <p>📫 Drop me a message at <a href="mailto:samueld@tegeria.com">samueld@tegeria.com</a></p>
 </div>
 
 <div align="center">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelDervish&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelDervish" alt="GitHub Streak" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueldervishii&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samueldervishii" alt="GitHub Streak" /></p>
 </div>
