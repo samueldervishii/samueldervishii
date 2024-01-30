@@ -22,5 +22,3 @@ Hello! 👋 I'm Samuel a backend developer with a knack for problem-solving. Cur
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samueldervishii&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
