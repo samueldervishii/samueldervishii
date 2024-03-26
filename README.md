@@ -12,6 +12,9 @@ Hello! 👋 I'm Samuel a backend developer with a knack for problem-solving. Cur
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samueldervishii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldervishii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samueldervishii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -21,4 +24,5 @@ Hello! 👋 I'm Samuel a backend developer with a knack for problem-solving. Cur
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+---
 [![](https://visitcount.itsvg.in/api?id=samueldervishii&icon=0&color=0)](https://visitcount.itsvg.in)
