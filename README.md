@@ -18,12 +18,6 @@
  <a href="https://samueldervishi.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="sam" />
  </a>
- <a href="https://linkedin.com/in/samueldervishi" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sam"/>
- </a>
- <a href="https://instagram.com/samueldervishi_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="sam" />
- </a> 
 </p>
 
 <!-- About Section -->
