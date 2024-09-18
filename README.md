@@ -1,11 +1,11 @@
 
-<a href="https://komarev.com/ghpvc/?username=samueldervishi1">
-  <img align="right" src="https://komarev.com/ghpvc/?username=samueldervishi1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=samueldervishii">
+  <img align="right" src="https://komarev.com/ghpvc/?username=samueldervishii&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://samueldervishi.vercel.app">Sam</a></b>
+                <b><a target="_blank" href="https://www.samueldervishi.com">Sam</a></b>
         </samp>
 </h3>
 
