@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Samuel, backend developer working on ETL pipelines and enterprise systems.<br><br>-Tech: Oracle DB, PL/SQL, Talend ETL, fiscalization systems<br><br>- Currently exploring cloud infrastructure and system optimization.</p>
+<p align="left">I'm Samuel, backend developer working on ETL pipelines and enterprise systems.<br><br>-Tech: Oracle DB, PL/SQL, Talend ETL, enterprise systems<br><br>- Currently exploring cloud infrastructure and system optimization.</p>
 
 ###
 
