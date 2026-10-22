@@ -33,6 +33,9 @@ public class Samuel {
 |:--|:--|
 | [**gitdex**](https://github.com/samueldervishii/gitdex) | GitHub × Pokémon — any profile becomes a holographic trading card, scored from real commits, stars & PRs. |
 | [**hydra**](https://github.com/samueldervishii/hydra) | An elegant Apple Music desktop client for Linux. No frippery, just quality. |
+| [**tune**](https://github.com/samueldervishii/tune) | A frosted-glass Electron desktop app that wraps the Claude Code CLI in a streaming chat interface. |
+| [**cortex**](https://github.com/samueldervishii/cortex) | A clean AI chat platform on FastAPI and React, with streaming responses, file analysis and DOCX export. |
+| [**llm-local**](https://github.com/samueldervishii/llm-local) | GPU-accelerated local LLM tool that generates performance reviews and onboarding plans, with PDF export. |
 
 ### Activity
 
