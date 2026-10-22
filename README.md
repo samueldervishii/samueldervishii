@@ -24,8 +24,18 @@ public class Samuel {
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,nextjs,react,aws,docker,redis,linux,idea&perline=11" alt="Tech stack" />
-  <img src="assets/oracle.svg" width="48" alt="Oracle" />
+  <img src="https://skillicons.dev/icons?i=java" width="7%" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" width="7%" alt="Spring Boot" />
+  <img src="assets/oracle.svg" width="7%" alt="Oracle" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="7%" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=ts" width="7%" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="7%" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react" width="7%" alt="React" />
+  <img src="https://skillicons.dev/icons?i=aws" width="7%" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" width="7%" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=redis" width="7%" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=linux" width="7%" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=idea" width="7%" alt="IntelliJ IDEA" />
 </p>
 
 ### Things I've built
