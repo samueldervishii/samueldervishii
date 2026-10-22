@@ -25,6 +25,7 @@ public class Samuel {
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,nextjs,react,aws,docker,redis,linux,idea&perline=11" alt="Tech stack" />
+  <img src="assets/oracle.svg" width="48" alt="Oracle" />
 </p>
 
 ### Things I've built
